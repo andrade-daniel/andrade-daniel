@@ -1,4 +1,7 @@
-### Hi there 👋
+![Alt Text](https://media.giphy.com/media/TIejJSkHLZh4s/giphy.gif)
+
+![Alt Text](https://media.giphy.com/media/E7iIfUlWHBmh2/giphy.gif)
+
 
 <!--
 **andrade-daniel/andrade-daniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
