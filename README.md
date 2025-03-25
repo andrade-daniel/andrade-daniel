@@ -8,6 +8,8 @@
 
 I am a Data Developer / AI Operations Engineer recently more focused on Computer Vision.
 
+Work Github: https://github.com/daniel-andrade-st
+
 :telescope:  Now: at Sporttotal's Infra Team, as a Computer Vision Operations Engineer.
 
 From data pipelines to production environments, my journey has been about laying the groundwork for Data and AI projects, then evolving them into scalable, productized services. Currently, I’ve taken on the challenge of helping directly in the integration of AI into real-world applications with good software engineering practices.
