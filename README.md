@@ -25,7 +25,7 @@ See TV mention (in PT): https://sicnoticias.pt/programas/futurohoje/2019-07-30-T
 
 Previously, projects in NLP/text analytics and in Computer Vision.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/andradedaniel101))
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/andradedaniel101](https://www.linkedin.com/in/andradedaniel101))
 
 
 <!--
