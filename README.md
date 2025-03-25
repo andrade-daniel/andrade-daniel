@@ -3,7 +3,7 @@
 
 I am a Data Developer / AI Operations Engineer recently more focused on Computer Vision.
 
-- :telescope:  Now: at Sporttotal's Infra Team, as a Computer Vision Operations Engineer.
+:telescope:  Now: at Sporttotal's Infra Team, as a Computer Vision Operations Engineer.
 From data pipelines to production environments, my journey has been about laying the groundwork for Data and AI projects, then evolving them into scalable, productized services. Currently, I’ve taken on the challenge of helping directly in the integration of AI into real-world applications with good software engineering practices.
 As AI projects mature, with the combination of MLOps for Computer Vision (or CVOps, if you prefer) practices and infra expertise, our goal is to bridge the gap between innovative AI models and the production environments where they deliver real value.
 I’m now more focused (my growing interest in how computers and memory work had a part on this) on creating robust systems that make AI a seamless part of modern products, bringing ideas from POC to production, ensuring they scale efficiently.
